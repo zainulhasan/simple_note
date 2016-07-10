@@ -19,5 +19,6 @@ public class CustomViewHolder extends RecyclerView.ViewHolder {
         super(itemView);
 
         tv= (TextView) itemView.findViewById(R.id.textView);
+
     }
 }

@@ -41,6 +41,7 @@ public class CustomAdopter extends RecyclerView.Adapter<CustomViewHolder> implem
     public void onBindViewHolder(CustomViewHolder holder, int position) {
 
 
+
         Note n=notes.get(position);
         holder.tv.setText(n.getTask());
     }

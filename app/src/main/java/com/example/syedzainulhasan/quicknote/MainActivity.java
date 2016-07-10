@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
 
+
         adopter=new CustomAdopter(this,notes);
         recyclerView.setAdapter(adopter);
         recyclerView.hasFixedSize();
