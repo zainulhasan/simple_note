@@ -7,8 +7,8 @@
 
 <img src="https://cloud.githubusercontent.com/assets/10378868/16711855/f9983044-4689-11e6-8f29-78c83d9f98ce.png"  width=500 height=800>
 
-![device-2016-07-10-100650](https://cloud.githubusercontent.com/assets/10378868/16711862/2e4242c6-468a-11e6-9993-c4d664b8fa01.png)
 
+<img src="https://cloud.githubusercontent.com/assets/10378868/16711862/2e4242c6-468a-11e6-9993-c4d664b8fa01.png"  width=500 height=800>
 
 
 
