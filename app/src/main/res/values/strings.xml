@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Quick Note</string>
     <string name="action_settings">Settings</string>
+    <string name="about">Simple Note is devoloped with the intentions of learning.Source Code can be found at:</string>
+    <string name="Git">https://github.com/zainulhasan/simple_note</string>
+    <string name="action_about">About</string>
 </resources>

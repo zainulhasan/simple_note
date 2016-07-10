@@ -35,7 +35,13 @@
             android:name="DOMAIN_PACKAGE_NAME"
             android:value="Models" />
         .
-        <activity android:name=".NoteActivity"></activity>
+        <activity android:name=".NoteActivity"
+            android:parentActivityName=".MainActivity"/>
+
+
+        <activity android:name=".aboutActivity"
+            android:parentActivityName=".MainActivity"
+            ></activity>
     </application>
 
 </manifest>
